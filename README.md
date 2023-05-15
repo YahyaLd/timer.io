@@ -1,4 +1,3 @@
-# timer
 <!DOCTYPE html>
 <html>
 <head>
