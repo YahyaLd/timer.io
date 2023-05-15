@@ -1,35 +1,4 @@
-# timer.github.io
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# timer
 <!DOCTYPE html>
 <html>
 <head>
